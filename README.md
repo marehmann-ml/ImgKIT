@@ -21,8 +21,6 @@ The project was developed during my ML internship to bridge theoretical image pr
 - Bilinear
 - Biquadratic
 - Bicubic
-- Biquartic
-- Biquintic
 
 ## Histogram Analysis
 - RGB Histogram Visualization
