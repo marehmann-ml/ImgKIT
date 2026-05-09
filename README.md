@@ -6,7 +6,7 @@ The project was developed during my ML internship to bridge theoretical image pr
 
 # ImgKIT
 
-![ImgKIT Banner](diagrams/imgkit_banner.png)
+![ImgKIT_Banner](diagrams/imgkit_banner.png)
 ---
 
 # Features
