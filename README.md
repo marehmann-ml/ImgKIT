@@ -21,9 +21,6 @@ Developed during my ML internship, the project focuses on bridging digital image
 - Nearest Neighbour
 - Bilinear
 - Biquadratic
-- Bicubic
-- Biquartic
-- Biquintic
 
 ## Histogram Analysis
 - RGB Histogram Visualization
