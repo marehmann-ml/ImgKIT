@@ -43,7 +43,7 @@ Developed during my ML internship, the project focuses on bridging digital image
 - 32-bit Float
 
 ## Multi Output Workflow (v2.1)
-- 1–4 Independent Outputs
+- 1 or many Independent Outputs
 - Parallel Processing
 - Individual Download Support
 
