@@ -47,6 +47,8 @@ Developed during my ML internship, the project focuses on bridging digital image
 - Parallel Processing
 - Individual Download Support
 
+![Multi Output Workflow](diagrams/imgkit_multioutput_workflow.png)
+
 ---
 
 # System Architecture
