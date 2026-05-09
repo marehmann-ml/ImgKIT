@@ -2,7 +2,6 @@
 
 ![ImgKIT Banner](diagrams/imgkit_banner.png)
 
-# ImgKIT
 
 ImgKIT is a lightweight image manipulation and geospatial raster processing tool built using Python and Streamlit.
 
