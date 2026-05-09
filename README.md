@@ -96,7 +96,7 @@ This project strengthened my understanding of:
 
 ---
 
-# Developer
+# By,
 
 M.A. Rehman Naseer  
 ML Intern | Image Processing | Geospatial & Remote Sensing
