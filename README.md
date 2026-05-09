@@ -1,4 +1,4 @@
-# ImgKIT
+# ImgKiT
 
 ![ImgKIT Banner](diagrams/imgkit_banner.png)
 
