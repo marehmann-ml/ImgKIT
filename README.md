@@ -2,10 +2,10 @@
 
 ![ImgKIT Banner](diagrams/imgkit_banner.png)
 
-
 ImgKIT is a lightweight image manipulation and geospatial raster processing tool built using Python and Streamlit.
 
-The project was developed during my ML internship to bridge theoretical image processing concepts with practical implementation on real raster and satellite imagery datasets.
+Developed during my ML internship, the project focuses on bridging digital image processing concepts with practical implementation on real raster and satellite imagery datasets.
+
 ---
 
 # Features
@@ -14,15 +14,16 @@ The project was developed during my ML internship to bridge theoretical image pr
 - Crop
 - Greyscale Conversion
 - Gaussian Blur
-- Brightness Adjustment
-- Contrast Adjustment
-- Resampling
+- Brightness & Contrast Adjustment
+- Resampling Operations
 
 ## Resampling Methods
 - Nearest Neighbour
 - Bilinear
 - Biquadratic
 - Bicubic
+- Biquartic
+- Biquintic
 
 ## Histogram Analysis
 - RGB Histogram Visualization
@@ -31,20 +32,28 @@ The project was developed during my ML internship to bridge theoretical image pr
 - Adjustable Bin Range
 
 ## GeoTIFF Support
-- CRS Extraction
-- Latitude / Longitude Mapping
-- Metadata Extraction
 - Multi-band Raster Handling
+- CRS Extraction
+- Latitude/Longitude Mapping
+- Metadata Extraction
 
 ## Bit Depth Conversion
 - 8-bit
 - 16-bit
 - 32-bit Float
 
-## Multi Output Processing (v2.1)
-- 1–4 independent outputs
-- Individual processing pipelines
-- Parallel image manipulation workflow
+## Multi Output Workflow (v2.1)
+- 1–4 Independent Outputs
+- Parallel Processing
+- Individual Download Support
+
+---
+
+# System Architecture
+
+The following diagram represents the high-level architecture and workflow of ImgKIT.
+
+![System Architecture](diagrams/imgkit_system_architecture.png)
 
 ---
 
@@ -63,43 +72,29 @@ The project was developed during my ML internship to bridge theoretical image pr
 # Version History
 
 ## v1.0
-Initial image manipulation pipeline with:
-- Crop
-- Greyscale
-- Blur
-- Brightness
-- Contrast
-- GeoTIFF metadata extraction
+Core image manipulation pipeline with GeoTIFF metadata support.
 
 ## v2.0
-Added:
-- Histogram analysis
-- Resampling methods
-- Bit depth conversion
-- Improved UI/UX
+Added histogram analysis, resampling methods, bit depth conversion, and improved UI workflow.
 
 ## v2.1
-Implemented:
-- Multi-output architecture
-- Independent processing slots
-- Session-state workflow
-- Enhanced workspace design
+Implemented multi-output processing architecture with independent editing pipelines.
 
 ---
 
 # Learning Outcome
 
-This project helped strengthen my understanding of:
+This project strengthened my understanding of:
 - Digital Image Processing
-- Raster & Geospatial Data
-- Image Resampling
+- Geospatial & Raster Data
+- Image Resampling & Interpolation
 - Histogram Analysis
-- Streamlit UI Development
-- SDLC-based project workflow
+- Streamlit-based UI Development
+- SDLC-oriented project workflow
 
 ---
 
-# By,
+# Developer
 
-M.A.Rehman Naseer  
+M.A. Rehman Naseer  
 ML Intern | Image Processing | Geospatial & Remote Sensing
