@@ -5,7 +5,7 @@ ImgKIT is a lightweight image manipulation tool built using Python and Streamlit
 
 ## SDLC Workflow Diagram
 
-![ImgKIT SDLC Flowchart](flowchart.png)
+![flowchart](diagrams/flowchart.png)
 
 Pipeline:
 
