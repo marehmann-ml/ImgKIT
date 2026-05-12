@@ -6,6 +6,7 @@ ImgKIT is a lightweight image manipulation and geospatial raster processing tool
 
 Developed during my ML internship, the project focuses on bridging digital image processing concepts with practical implementation on real raster and satellite imagery datasets.
 
+
 ---
 
 # Features
